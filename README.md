@@ -5,7 +5,7 @@ The app supports over 30 global currencies with country flags, keypad input, and
 
 ---
 
-## 🌍 Features:
+## 🌍 Features
 
 - 🔁 **Real-Time Exchange Rates** fetched from [ExchangeRate API](https://www.exchangerate-api.com/)
 - 🏳️ **Country Flags** displayed dynamically via [flagcdn.com](https://flagcdn.com)
